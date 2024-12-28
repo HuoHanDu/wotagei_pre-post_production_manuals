@@ -6,7 +6,7 @@ src = "src"
 title = "WOTA艺前后期手册"
 
 [output.html]
-git-repository-url = "https://www.baidu.com"
+git-repository-url = "https://github.com/HuoHanDu/wotagei_pre-post_production_manuals"
 git-repository-icon = "fa-github"
 
 # [output.pdf]

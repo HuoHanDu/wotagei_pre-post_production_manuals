@@ -1,0 +1,18 @@
+[book]
+authors = ["HuoHanDu"]
+language = "en"
+multilingual = false
+src = "src"
+title = "WOTA艺前后期手册"
+
+[output.html]
+git-repository-url = "https://www.baidu.com"
+git-repository-icon = "fa-github"
+
+# [output.pdf]
+
+
+[output.html.print]
+enable = true
+page-break = true # 插入分页符，默认是 true
+
